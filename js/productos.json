@@ -1,0 +1,222 @@
+[
+    {
+        "id": "Juguetes-01",
+        "titulo": "Triciclo",
+        "imagen": "./img/juguetes/01.jpg",
+        "categoria": {
+            "nombre": "Juguetes",
+            "id": "Juguetes"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "Juguetes-02",
+        "titulo": "Triciclo",
+        "imagen": "./img/juguetes/triciclo1.jpg",
+        "categoria": {
+            "nombre": "Juguetes",
+            "id": "Juguetes"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "Juguetes-03",
+        "titulo": "Triciclo",
+        "imagen": "./img/juguetes/triciclo2.jpg",
+        "categoria": {
+            "nombre": "Juguetes",
+            "id": "Juguetes"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "Juguetes-04",
+        "titulo": "Triciclo",
+        "imagen": "./img/juguetes/triciclo3.jpg",
+        "categoria": {
+            "nombre": "Juguetes",
+            "id": "Juguetes"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "Juguetes-05",
+        "titulo": "Cubo Didactico",
+        "imagen": "./img/juguetes/02.jpg",
+        "categoria": {
+            "nombre": "Juguetes",
+            "id": "Juguetes"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "Juguetes-06",
+        "titulo": "Cubo Didactico",
+        "imagen": "./img/juguetes/03.jpg",
+        "categoria": {
+            "nombre": "Juguetes",
+            "id": "Juguetes"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "Juguetes-07",
+        "titulo": "Cubo Didactico",
+        "imagen": "./img/juguetes/04.jpg",
+        "categoria": {
+            "nombre": "Juguetes",
+            "id": "Juguetes"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "Juguetes-08",
+        "titulo": "Andadera 4 en 1",
+        "imagen": "./img/juguetes/05.jpg",
+        "categoria": {
+            "nombre": "Juguetes",
+            "id": "Juguetes"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "Juguetes-09",
+        "titulo": "Cangrejo infantil",
+        "imagen": "./img/camisetas/01.jpg",
+        "categoria": {
+            "nombre": "Juguetes",
+            "id": "Juguetes"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "Juguetes-10",
+        "titulo": "Cocina infantil",
+        "imagen": "./img/camisetas/02.jpg",
+        "categoria": {
+            "nombre": "Juguetes",
+            "id": "Juguetes"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "Juguetes-11",
+        "titulo": "Nutria Dormilona",
+        "imagen": "./img/camisetas/03.jpg",
+        "categoria": {
+            "nombre": "Juguetes",
+            "id": "Juguetes"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "Ropa-01",
+        "titulo": "Camiseta 04",
+        "imagen": "./img/camisetas/04.jpg",
+        "categoria": {
+            "nombre": "Ropa",
+            "id": "Ropa"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "Ropa-02",
+        "titulo": "Camiseta",
+        "imagen": "./img/camisetas/05.jpg",
+        "categoria": {
+            "nombre": "Ropa",
+            "id": "Ropa"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "Ropa-03",
+        "titulo": "Camiseta",
+        "imagen": "./img/camisetas/06.jpg",
+        "categoria": {
+            "nombre": "Ropa",
+            "id": "Ropa"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "Ropa-04",
+        "titulo": "Camiseta",
+        "imagen": "./img/camisetas/07.jpg",
+        "categoria": {
+            "nombre": "Ropa",
+            "id": "Ropa"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "Ropa-05",
+        "titulo": "Camiseta",
+        "imagen": "./img/camisetas/08.jpg",
+        "categoria": {
+            "nombre": "Ropa",
+            "id": "Ropa"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "Calzado-01",
+        "titulo": "zapatos para niñ@s",
+        "imagen": "./img/pantalones/zapatos1.jpg",
+        "categoria": {
+            "nombre": "Calzado",
+            "id": "Calzado"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "Calzado-02",
+        "titulo": "zapatos para niñ@s",
+        "imagen": "./img/pantalones/zapatos2.jpg",
+        "categoria": {
+            "nombre": "Calzado",
+            "id": "Calzado"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "Productito-01",
+        "titulo": "Pantalón",
+        "imagen": "./img/pantalones/01.jpg",
+        "categoria": {
+            "nombre": "Productito",
+            "id": "Productito"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "Productito-02",
+        "titulo": "Pantalón",
+        "imagen": "./img/pantalones/02.jpg",
+        "categoria": {
+            "nombre": "Productito",
+            "id": "Productito"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "Productito-03",
+        "titulo": "Pantalón",
+        "imagen": "./img/pantalones/03.jpg",
+        "categoria": {
+            "nombre": "Productito",
+            "id": "Productito"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "pantalon-04",
+        "titulo": "Pantalón",
+        "imagen": "./img/pantalones/04.jpg",
+        "categoria": {
+            "nombre": "Pantalones",
+            "id": "pantalones"
+        },
+        "precio": 1000
+    }
+]
